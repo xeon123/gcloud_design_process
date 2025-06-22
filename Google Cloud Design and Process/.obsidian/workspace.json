@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Maintenance and Monitoring.md",
+                "file": "10 Module Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Maintenance and Monitoring"
+              "title": "10 Module Quiz"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 Maintenance and Monitoring.md",
+                "file": "10 Module Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 09 Maintenance and Monitoring"
+              "title": "Backlinks for 10 Module Quiz"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 Maintenance and Monitoring.md",
+                "file": "10 Module Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09 Maintenance and Monitoring"
+              "title": "Outgoing links from 10 Module Quiz"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Maintenance and Monitoring.md",
+                "file": "10 Module Quiz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09 Maintenance and Monitoring"
+              "title": "Outline of 10 Module Quiz"
             }
           }
         ]
@@ -186,14 +186,15 @@
   },
   "active": "d5826e2527b8639f",
   "lastOpenFiles": [
-    "08 Security.md",
+    "01 Defining Services.md",
+    "10 Module Quiz.md",
     "09 Maintenance and Monitoring.md",
+    "08 Security.md",
     "07 Designing Reliable Systems.md",
     "06 Deploying Applications to Google Cloud.md",
     "05 Google Cloud and Hybrid Network Architecture.md",
     "04 Choosing Storage Solutions.md",
     "03 DevOps Automation.md",
-    "02 Microservices Design and Architecture.md",
-    "01 Defining Services.md"
+    "02 Microservices Design and Architecture.md"
   ]
 }
